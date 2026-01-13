@@ -1,26 +1,72 @@
 # ¡Hola! Soy @xnzperez 👨‍💻
 
-🎓 **Estudiante de 9vo semestre de Ingeniería de Sistemas** en la Universidad Cooperativa de Colombia (Sede Montería).
-🚀 **Full Stack Developer** apasionado por construir soluciones escalables y eficientes.
-🌱 Actualmente perfeccionando **Go**, **TypeScript** y mejorando mi nivel de **Inglés**.
+<div align="center">
 
-### 🛠️ Tecnologías y Herramientas:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,go,postgres,aws,azure,git,github,linux)](https://skillicons.dev)
+🎓 **Estudiante de 9no semestre de Ingeniería de Sistemas**<br>
+Universidad Cooperativa de Colombia (Sede Montería)
 
----
-
-### 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xnzperez&theme=tokyonight&hide_border=true)
+🚀 **Full Stack Developer** | 🌱 Aprendiendo **Go** & **TypeScript** | 🇬🇧 Mejorando Inglés
 
 ---
 
-### 🌐 Conéctate conmigo:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/xnzperez/)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/xnzperez/)
-[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/users/yatowc)
-[<img src="https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=vercel&logoColor=white">](https://xnzperez-portfolio.vercel.app/)
+### 🛠️ Tech Stack
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,go,postgres,aws,azure,git,github,linux&theme=dark" />
+</a>
+
+<br><br>
+
+### 📊 Mis Estadísticas
+<table>
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=xnzperez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="xnzperez's Github Stats" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnzperez&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="xnzperez's Top Langs" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xnzperez&theme=tokyonight&hide_border=true" alt="xnzperez's Streak" />
 
 ---
 
-### 🎵 Actualmente escuchando:
-[![Spotify](https://novatorem-spotify-widget.vercel.app/api/now-playing?uid=959mtqtkf9k2gl44unyr2umlp?si=73df89e1fd754c57)](https://open.spotify.com/user/959mtqtkf9k2gl44unyr2umlp?si=73df89e1fd754c57)
+### 🏆 Top Repositories
+<div align="center">
+  <a href="https://github.com/xnzperez/nombre-repo-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xnzperez&repo=nombre-repo-1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/xnzperez/nombre-repo-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xnzperez&repo=nombre-repo-2&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+---
+
+### 🎵 Vibe Coding
+<div align="center">
+  <a href="https://spotify.com">
+    <img src="https://novatorem-spotify-widget.vercel.app/api/now-playing?uid=TU_UID_GENERADO_AQUI&theme=tokyonight" width="350" />
+  </a>
+</div>
+
+---
+
+### 🌐 Conéctate conmigo
+<div align="center">
+  <a href="https://www.linkedin.com/in/xnzperez/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/xnzperez/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/yatowc">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://xnzperez-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+</div>

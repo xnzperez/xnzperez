@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,go,postgres,aws,azure,git,github,linux&theme=dark)](https://skillicons.dev)
 
 ### 📊 Estadísticas
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xnzperez&theme=javascript-dark&hide_border=true&border_radius=6&short_numbers=true&background=2E3440&border=81A1C1&stroke=4C566A&ring=88C0D0&fire=BF616A&currStreakNum=A3BE8C&sideNums=D8DEE9&currStreakLabel=81A1C1&sideLabels=81A1C1&dates=4C566A)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xnzperez&theme=react&hide_border=true&short_numbers=true&background=2E3440&border=81A1C1&stroke=4C566A&ring=88C0D0&fire=BF616A&currStreakNum=A3BE8C&sideNums=D8DEE9&currStreakLabel=81A1C1&sideLabels=81A1C1&dates=4C566A" alt="GitHub Streak" /></a>
 
 ### 🌐 Conéctate conmigo
 <a href="https://www.linkedin.com/in/xnzperez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 

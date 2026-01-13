@@ -5,7 +5,7 @@
 🌱 Actualmente perfeccionando **Go**, **TypeScript** y mejorando mi nivel de **Inglés**.
 
 ### 🛠️ Tecnologías y Herramientas:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,html,css,react,nextjs,nodejs,express,postgres,git,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,go,postgres,aws,azure,git,github,linux)](https://skillicons.dev)
 
 ---
 

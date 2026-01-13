@@ -2,8 +2,7 @@
 
 # <img src="https://capsule-render.vercel.app/api?type=waving&color=5E81AC&height=150&section=header&text=Hello!%20I'm%20xnzperez&fontSize=50&animation=fadeIn&fontColor=ECEFF4&fontAlignY=40" />
 
-🎓 **9th Semester Systems Engineering Student**
-📍 Montería, Córdoba (Colombia)
+🎓 **Systems Engineering Student**
 
 <br>
 

@@ -2,13 +2,13 @@
 
 <div align="center">
 
-🎓 **Estudiante de 9no semestre de Ingeniería de Sistemas** [cite: 2025-09-30]
-📍 Montería, Córdoba (Colombia) [cite: 2025-09-30]
+🎓 **Estudiante de 9no semestre de Ingeniería de Sistemas** 
+📍 Montería, Córdoba (Colombia).
 
 ---
 
 ### 🛠️ Tecnologías
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,html,css,react,nextjs,nodejs,express,postgres,git,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,go,postgres,aws,azure,git,github,linux)](https://skillicons.dev)
 
 ---
 
@@ -18,7 +18,7 @@
 
 <br>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=xnzperez&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xnzperez&theme=dark)](https://git.io/streak-stats)
 
 ---
 

@@ -47,7 +47,7 @@ Universidad Cooperativa de Colombia (Sede Montería)
 ### 🎵 Vibe Coding
 <div align="center">
   <a href="https://spotify.com">
-    <img src="https://novatorem-spotify-widget.vercel.app/api/now-playing?uid=TU_UID_GENERADO_AQUI&theme=tokyonight" width="350" />
+    <img src="https://novatorem-spotify-widget.vercel.app/api/now-playing?uid=375aa6f346614340&theme=tokyonight" width="350" />
   </a>
 </div>
 

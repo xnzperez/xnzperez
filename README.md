@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello! I'm @xnzperez 👨‍💻
+# <img src="https://capsule-render.vercel.app/api?type=waving&color=81A1C1&height=120&section=header&text=Hello!%20I'm%20@xnzperez%20&fontSize=50&animation=fadeIn&fontColor=eceff4" />
 
 🎓 **9th Semester Systems Engineering Student**
 📍 Montería, Córdoba (Colombia)

@@ -17,10 +17,3 @@
 
 ### 🎵 Spotify
 <a href="https://open.spotify.com/user/959mtqtkf9k2gl44unyr2umlp"><img src="https://img.shields.io/badge/Spotify-Perfil%20Musical-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a> 
-
-### 🎵 Spotify
-<a href="https://open.spotify.com/user/959mtqtkf9k2gl44unyr2umlp?si=73df89e1fd754c57">
-  <img src="https://img.shields.io/badge/Spotify-Perfil%20Musical-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-</a> 
-
-</div>

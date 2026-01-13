@@ -7,17 +7,14 @@
 
 <br>
 
-### Tech & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,go,postgres,aws,azure,git,github,linux&theme=dark)](https://skillicons.dev)
 
 <br>
 
-### GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=xnzperez&theme=black-ice)](https://git.io/streak-stats)
 
 <br>
 
-### Contact
 <a href="https://www.linkedin.com/in/xnzperez/">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>

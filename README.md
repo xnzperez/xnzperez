@@ -2,8 +2,8 @@
 
 <div align="center">
 
-🎓 **Estudiante de 9no semestre de Ingeniería de Sistemas** [cite: 2025-09-30]
-📍 Montería, Córdoba (Colombia) [cite: 2025-09-30]
+🎓 **Estudiante de 9no semestre de Ingeniería de Sistemas** 
+📍 Montería, Córdoba (Colombia)
 
 ---
 

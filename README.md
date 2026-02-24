@@ -6,9 +6,13 @@ I am a Systems Engineering student at Universidad Cooperativa de Colombia (Monte
 
 ---
 
-<br>
+div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,go,postgres,aws,azure,git,github,linux&theme=dark)](https://skillicons.dev)
+## 💻 The Arsenal (Tech Stack)
+
+| **Backend & Systems** | **Frontend** | **DevOps & Database** |
+| :---: | :---: | :---: |
+| [![Backend](https://skillicons.dev/icons?i=go,nodejs,express&theme=dark)](https://skillicons.dev) | [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark)](https://skillicons.dev) | [![DevOps](https://skillicons.dev/icons?i=postgres,aws,azure,linux,git,github&theme=dark)](https://skillicons.dev) |
 
 <br>
 

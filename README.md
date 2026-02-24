@@ -30,6 +30,12 @@ div align="center">
 
 <br><br>
 
+## 📊 My Stats & Rhythm
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=xnzperez&theme=black-ice)](https://git.io/streak-stats)
+
+<br>
+
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=959mtqtkf9k2gl44unyr2umlp&count=5&width=400" alt="Spotify Recently Played" />
 
 </div>

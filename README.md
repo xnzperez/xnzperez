@@ -1,8 +1,10 @@
-<div align="center">
+# Hi there, I'm Carlos Pérez! 👋
 
-# <img src="https://capsule-render.vercel.app/api?type=waving&color=5E81AC&height=150&section=header&text=Hello!%20I'm%20xnzperez&fontSize=50&animation=fadeIn&fontColor=ECEFF4&fontAlignY=40" />
+**Systems Engineering Student (9th Semester) | Full-Stack Developer**
 
-🎓 **Systems Engineering Student**
+I am a Systems Engineering student at Universidad Cooperativa de Colombia (Montería), focused on building scalable web applications and mastering high-performance backend systems. Currently deepening my expertise in **Go** and **TypeScript**.
+
+---
 
 <br>
 

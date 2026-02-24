@@ -16,9 +16,7 @@ div align="center">
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=xnzperez&theme=black-ice)](https://git.io/streak-stats)
-
-<br>
+## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/xnzperez/">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

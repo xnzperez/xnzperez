@@ -2,7 +2,7 @@
 
 **Systems Engineering Student (9th Semester) | Full-Stack Developer**
 
-I am a Systems Engineering student at Universidad Cooperativa de Colombia (Montería), focused on building scalable web applications and mastering high-performance backend systems. Currently deepening my expertise in **Go** and **TypeScript**.
+I am a Systems Engineering student at Universidad Cooperativa de Colombia (Montería), focused on building scalable web applications and mastering high-performance backend systems. Currently deepening my expertise in **Go** and **JavaScript**.
 
 ---
 

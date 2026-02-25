@@ -6,7 +6,7 @@ I am a Systems Engineering student at Universidad Cooperativa de Colombia (Monte
 
 ---
 
-div align="center">
+<div align="center">
 
 ## 💻 The Arsenal (Tech Stack)
 

@@ -1,6 +1,6 @@
 # Hi there, I'm Carlos Pérez! 👋
 
-**Systems Engineering Student (9th Semester) | Full-Stack Developer**
+**Systems Engineering Student (10th Semester) | Full-Stack Developer**
 
 I am a Systems Engineering student at Universidad Cooperativa de Colombia (Montería), focused on building scalable web applications and mastering high-performance backend systems. Currently deepening my expertise in **Go** and **JavaScript**.
 
